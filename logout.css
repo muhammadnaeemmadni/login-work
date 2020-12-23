@@ -1,0 +1,68 @@
+/* <style> */
+    Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    color: black;
+    /* background-image: url(./img/im4.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat; */
+    background: linear-gradient(to right, #0026fc, rgb(204, 0, 255), #00ffdd);
+}
+  .navbar
+{
+    text-align: center;
+padding: 10px;
+}
+.navbar a {
+    text-decoration: none;
+color: black;
+font-size: 20px;
+font-family:  sans-serif;
+margin: 40px;
+border: 2px solid transparent;
+padding: 5px;
+transition: 0.5s;
+
+}
+
+
+.navbar
+{
+    box-sizing: border-box;
+    background: linear-gradient(to right, #071ef1, #a303ff, #00d0f5);
+      height: 50px;
+    
+}
+
+
+.navbar a:hover
+{
+    background: linear-gradient(to right, #0788f1, #cc01ffd3, #0004ff);
+    
+    border-radius: 30%;  }
+
+h1{text-align: center;
+    font-size: 40px;
+
+
+}
+#one{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+  
+}
+
+#two{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    animation: animate 2s linear infinite;
+}
+#three{
+    font-size: 24px;
+    color: black;
+    text-align: center;
+    animation: animate 2s linear infinite;
+}
+
+/* </style> */
